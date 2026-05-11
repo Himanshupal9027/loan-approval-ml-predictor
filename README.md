@@ -1,6 +1,6 @@
 # 🏦 Credit Wise: Advanced Loan Approval System
 
-[![Streamlit App](https://loan-approval-ml-predictor-jwddwy9cmhutr7xnsdpvtp.streamlit.app/)
+(https://loan-approval-ml-predictor-jwddwy9cmhutr7xnsdpvtp.streamlit.app/)
 
 ## 📌 Project Overview
 Credit Wise is an end-to-end Machine Learning application designed to automate the loan underwriting process. By analyzing 27 key financial and demographic variables, the system provides a real-time risk assessment to determine whether a loan applicant is likely to be approved or rejected.
